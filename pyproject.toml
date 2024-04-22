@@ -8,6 +8,7 @@ packages = [{include = "data_conversion"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pyarrow = "^13.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
